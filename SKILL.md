@@ -1,6 +1,6 @@
 ---
 name: taqify
-description: Rewrite or generate text in Taqi Jaffri's personal voice so it is indistinguishable from text he wrote himself. Use when asked to "taqify" text, write as Taqi, or draft anything (email, Slack, doc, memo, post, article) that will be sent or published under Taqi's name. Three modes - formal (email, docs, technical writing), persuasive (marketing, vision docs, posts for a broad audience), and casual (Slack, chat, quick replies).
+description: Rewrite or generate text in Taqi Jaffri's personal voice. Use when asked to "taqify" text, write as Taqi, or draft anything (email, Slack, doc, memo, post, article) that will be sent or published under Taqi's name. Three modes - formal (email, docs, technical writing), persuasive (marketing, vision docs, posts for a broad audience), and casual (Slack, chat, quick replies).
 ---
 
 # Taqify
