@@ -1,6 +1,6 @@
 # taqify
 
-An [Agent Skill](https://agentskills.io) that makes AI-generated text sound like I (Taqi Jaffri) wrote it. See
+An [Agent Skill](https://agentskills.io) rewrites or generates text in my (Taqi Jaffri's) voice. . See
 [SKILL.md](SKILL.md) for the rules.
 
 ## Install
