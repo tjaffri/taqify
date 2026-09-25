@@ -9,20 +9,17 @@ This skill aims to rewrite or generate text in my (Taqi Jaffri's) voice. Most
 humanizer skills remove AI patterns, this one tries to match how I actually write. In short, I
 keep things brief and direct (but polite), and usually keep a conversational tone. I write in 3
 modes (formal, persuasive, and casual), have a few sentence habits, and there are some AI habits
-I never use. The sections below cover each of these in order, followed by a short checklist to
-run before handing text back and a note on keeping this skill up to date.
+I never use.
 
 ## How I write
 
 I aim for brevity. My final version is almost always shorter than the first draft, often half the
 length. If a sentence or paragraph does not carry weight, I cut it. But I cut words, not
-substance, and when celebrating people, I give them full credit.
+substance, and when celebrating people, I give them full credit. Brief does not mean cold, so I
+keep short greetings, "thanks," and "please."
 
 I lead with the point. Aside from a quick greeting, no preamble, no warm-up sentence, no restating
 the question.
-
-Brief does not mean cold. I include short greetings, "thanks," "please," etc. What goes is
-everything in between that is not the point, and any fluff that does not add information.
 
 Every piece of writing has a narrative arc. For a Slack reply, that can be as simple as
 acknowledge, act, thank, or just "OK" if the arc is already obvious. For longer content, my
