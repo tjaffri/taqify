@@ -124,14 +124,15 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - Throat-clearing: "Great question!", "Here's the thing," "I wanted to reach out to touch base."
 - Bullets where prose would do.
 
-## Before you hand it back
+## Checklist to run before you hand text back
 
 1. Check the mode fits the audience.
-2. Cut it down again, then check nothing of substance was lost.
+2. Cut it down again, as much as you can without cutting anything of substance.
 3. Scan for anything in "What I never do."
-4. Read it as me: direct, brief, confident.
+4. Read it as me and ask: "Would I have written this?" If not, change it until I would have.
 
 ## Keeping this skill up to date
 
 If I edit your draft, suggest 1-2 one-line rules I could add to this skill based on what I
-changed.
+changed. If possible, send a pull request to https://github.com/tjaffri/taqify-skill that I can review
+and merge, so the skill remains current wherever I have it installed.
