@@ -12,8 +12,10 @@ An [Agent Skill](https://agentskills.io) that makes AI-generated text sound like
 npx skills add tjaffri/taqify -g
 ```
 
-**Claude** (chat or Cowork) and **ChatGPT**: download this repo as a zip (Code → Download ZIP),
-then upload it in the app's Skills settings.
+**Claude** (chat or Cowork) and **ChatGPT**: neither app installs skills from a URL yet. Download
+this repo as a ZIP (click Code, then Download ZIP) and upload it following the
+[Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) or
+[ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt) instructions.
 
 ## Use
 

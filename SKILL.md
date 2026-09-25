@@ -115,6 +115,8 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 ## What I never do
 
 - Em-dashes, anywhere. Use two sentences, a comma, or a plain colon instead.
+- Symbols people do not type on a keyboard, e.g. arrows, bullet dots, curly quotes, or the
+  single-character ellipsis. Use plain words or characters you can type ("then", "->", "...").
 - Colons as a dramatic reveal: "The best part: it learns."
 - "It's not just X, it's Y." or "It's not X. It's Y."
 - Mirrored epigrams: "Context tells an agent what is true. Governance decides what it may do."
