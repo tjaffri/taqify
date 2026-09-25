@@ -1,6 +1,6 @@
 # taqify
 
-An [Agent Skill](https://agentskills.io) rewrites or generates text in my (Taqi Jaffri's) voice. . See
+An [Agent Skill](https://agentskills.io) that rewrites or generates text in my (Taqi Jaffri's) voice. See
 [SKILL.md](SKILL.md) for the rules.
 
 ## Install
