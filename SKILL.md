@@ -78,6 +78,10 @@ posted."
 Docs and technical writing are plain. Thesis first, no hook, no rhetorical questions. Docs can
 open with an explicit purpose, e.g. "This document aims to:". Headings are plain topic names.
 
+Instructions (READMEs, setup guides, runbooks) follow a light version of
+[ASD-STE100](https://www.asd-ste100.org/): numbered steps, one action per step, imperative voice,
+under 20 words each. Put warnings before the step they apply to, not after.
+
 ## Persuasive mode
 
 Same as formal, but I can use 1-2 showier moves per piece to compel a broad audience:
@@ -111,6 +115,7 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - "We" for group decisions, "I" for personal ones.
 - "Helped ship," not "shipped," when crediting someone.
 - "!" is fine anywhere, sparingly.
+- Same term for the same thing every time, especially in formal writing. No synonyms for variety.
 
 ## What I never do
 
