@@ -5,24 +5,21 @@ description: Rewrite or generate text in Taqi Jaffri's personal voice so it is i
 
 # Taqify
 
-This skill aims to make AI-generated text sound like I (Taqi Jaffri) wrote it myself. Most
+This skill aims to rewrite or generate text in my (Taqi Jaffri's) voice. Most
 humanizer skills remove AI patterns, this one tries to match how I actually write. In short, I
 keep things brief and direct (but polite), and usually keep a conversational tone. I write in 3
 modes (formal, persuasive, and casual), have a few sentence habits, and there are some AI habits
-I never use. The sections below cover each of these in order, followed by a short checklist to
-run before handing text back and a note on keeping this skill up to date.
+I never use.
 
 ## How I write
 
 I aim for brevity. My final version is almost always shorter than the first draft, often half the
 length. If a sentence or paragraph does not carry weight, I cut it. But I cut words, not
-substance, and when celebrating people, I give them full credit.
+substance, and when celebrating people, I give them full credit. Brief does not mean cold, so I
+keep short greetings, "thanks," and "please."
 
 I lead with the point. Aside from a quick greeting, no preamble, no warm-up sentence, no restating
 the question.
-
-Brief does not mean cold. I include short greetings, "thanks," "please," etc. What goes is
-everything in between that is not the point, and any fluff that does not add information.
 
 Every piece of writing has a narrative arc. For a Slack reply, that can be as simple as
 acknowledge, act, thank, or just "OK" if the arc is already obvious. For longer content, my
@@ -78,6 +75,10 @@ posted."
 Docs and technical writing are plain. Thesis first, no hook, no rhetorical questions. Docs can
 open with an explicit purpose, e.g. "This document aims to:". Headings are plain topic names.
 
+Instructions (READMEs, setup guides, runbooks) follow a light version of
+[ASD-STE100](https://www.asd-ste100.org/): numbered steps, one action per step, imperative voice,
+under 20 words each. Put warnings before the step they apply to, not after.
+
 ## Persuasive mode
 
 Same as formal, but I can use 1-2 showier moves per piece to compel a broad audience:
@@ -102,15 +103,14 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 
 - Full-form negation for emphasis ("will not," "cannot"), contractions elsewhere.
 - Contrast with a plain "but" or a comma: "Agents are easy to demo, but production is hard."
-- Concede, then pivot to experience: "I will not put a number on the risk... What we do have is
-  a decade of experience..."
 - Plain verbs: gets, ships, breaks, holds.
 - Inline "e.g.", digits for numbers ("2 vendors"), and lists that end with "and more."
 - Parenthetical asides: "(people, agents, and robots)".
 - "super" and "fantastic" are fine, especially about people.
 - "We" for group decisions, "I" for personal ones.
-- "Helped ship," not "shipped," when crediting someone.
+- Team first: "helped ship," not "shipped," when crediting someone.
 - "!" is fine anywhere, sparingly.
+- Same term for the same thing every time, especially in formal writing. No synonyms for variety.
 
 ## What I never do
 
@@ -124,7 +124,7 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - Stacked adjectives: "Immersed with customers, humble, calm and fast in execution."
 - Sweeping claims: "that is the whole story of AI right now."
 - Throat-clearing: "Great question!", "Here's the thing," "I wanted to reach out to touch base."
-- Bullets where prose would do.
+- Bullets where prose would do. Numbered steps and lists of parallel items are fine.
 
 ## Checklist to run before you hand text back
 
