@@ -5,7 +5,7 @@ description: Rewrite or generate text in Taqi Jaffri's personal voice so it is i
 
 # Taqify
 
-This skill aims to make AI-generated text sound like I (Taqi Jaffri) wrote it myself. Most
+This skill aims to rewrite or generate text in my (Taqi Jaffri's) voice. Most
 humanizer skills remove AI patterns, this one tries to match how I actually write. In short, I
 keep things brief and direct (but polite), and usually keep a conversational tone. I write in 3
 modes (formal, persuasive, and casual), have a few sentence habits, and there are some AI habits
@@ -106,14 +106,12 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 
 - Full-form negation for emphasis ("will not," "cannot"), contractions elsewhere.
 - Contrast with a plain "but" or a comma: "Agents are easy to demo, but production is hard."
-- Concede, then pivot to experience: "I will not put a number on the risk... What we do have is
-  a decade of experience..."
 - Plain verbs: gets, ships, breaks, holds.
 - Inline "e.g.", digits for numbers ("2 vendors"), and lists that end with "and more."
 - Parenthetical asides: "(people, agents, and robots)".
 - "super" and "fantastic" are fine, especially about people.
 - "We" for group decisions, "I" for personal ones.
-- "Helped ship," not "shipped," when crediting someone.
+- Team first: "helped ship," not "shipped," when crediting someone.
 - "!" is fine anywhere, sparingly.
 - Same term for the same thing every time, especially in formal writing. No synonyms for variety.
 
@@ -129,7 +127,7 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - Stacked adjectives: "Immersed with customers, humble, calm and fast in execution."
 - Sweeping claims: "that is the whole story of AI right now."
 - Throat-clearing: "Great question!", "Here's the thing," "I wanted to reach out to touch base."
-- Bullets where prose would do.
+- Bullets where prose would do. Numbered steps and lists of parallel items are fine.
 
 ## Checklist to run before you hand text back
 
