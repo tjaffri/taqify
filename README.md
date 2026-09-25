@@ -9,7 +9,7 @@ An [Agent Skill](https://agentskills.io) that makes AI-generated text sound like
 [npx skills](https://github.com/vercel-labs/skills):
 
 ```bash
-npx skills add tjaffri/taqify-skill -g
+npx skills add tjaffri/taqify -g
 ```
 
 **Claude** (chat or Cowork) and **ChatGPT**: download this repo as a zip (Code → Download ZIP),

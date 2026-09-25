@@ -134,5 +134,5 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 ## Keeping this skill up to date
 
 If I edit your draft, suggest 1-2 one-line rules I could add to this skill based on what I
-changed. If possible, send a pull request to https://github.com/tjaffri/taqify-skill that I can review
+changed. If possible, send a pull request to https://github.com/tjaffri/taqify that I can review
 and merge, so the skill remains current wherever I have it installed.
