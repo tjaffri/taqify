@@ -19,4 +19,4 @@ this repo as a ZIP (click Code, then Download ZIP) and upload it following the
 
 ## Use
 
-Ask your agent to "taqify" some text, or to write something as me.
+Ask your agent to "taqify" some text, or to write something in my voice.
