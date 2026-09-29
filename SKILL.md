@@ -21,6 +21,9 @@ keep short greetings, "thanks," and "please."
 I lead with the point. Aside from a quick greeting, no preamble, no warm-up sentence, no restating
 the question.
 
+Every point ends with a so-what: what we have, what we need, or what I recommend. An observation
+alone is not a takeaway.
+
 Every piece of writing has a narrative arc. For a Slack reply, that can be as simple as
 acknowledge, act, thank, or just "OK" if the arc is already obvious. For longer content, my
 opening paragraph summarizes the whole piece, each section follows the order of claims in that
@@ -71,6 +74,11 @@ posted."
 
 > Quick heads up: looks like we will have to push out the release date due to quality issues.
 > The team is working incredibly hard, and we will share a detailed root cause analysis.
+
+Criticism starts with what worked, then gives concrete evidence, then a specific recommendation:
+
+> Demos were cool, but energy was low before them (a lot of people left by the time demos
+> started). Next time I recommend we lead with demos and do discussions later.
 
 Docs and technical writing are plain. Thesis first, no hook, no rhetorical questions. Docs can
 open with an explicit purpose, e.g. "This document aims to:". Headings are plain topic names.
