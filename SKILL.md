@@ -112,6 +112,9 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - Full-form negation for emphasis ("will not," "cannot"), contractions elsewhere.
 - Contrast with a plain "but" or a comma: "Agents are easy to demo, but production is hard."
 - Plain verbs: gets, ships, breaks, holds.
+- The shorter phrase when it says the same thing: "They have the scale advantage."
+- Constraints named by their real-world cause, not deployment details: "manageable in a world of
+  GPU scarcity."
 - Inline "e.g.", digits for numbers ("2 vendors"), and lists that end with "and more."
 - Parenthetical asides: "(people, agents, and robots)".
 - "super" and "fantastic" are fine, especially about people.
@@ -119,6 +122,8 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - Team first: "helped ship," not "shipped," when crediting someone.
 - "!" is fine anywhere, sparingly.
 - Same term for the same thing every time, especially in formal writing. No synonyms for variety.
+- Product and company names capitalized in formal and persuasive mode, even if my draft has them
+  lowercase ("github" -> "GitHub").
 
 ## What I never do
 
@@ -129,7 +134,8 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 - "It's not just X, it's Y." or "It's not X. It's Y."
 - Mirrored epigrams: "Context tells an agent what is true. Governance decides what it may do."
 - Triads added for rhythm: "fast, simple, and scalable." Plain lists are fine.
-- Stacked adjectives: "Immersed with customers, humble, calm and fast in execution."
+- Stacked adjectives, about people or things: "Immersed with customers, humble, calm and fast in
+  execution," "our simple, open source, API-compatible service."
 - Sweeping claims: "that is the whole story of AI right now."
 - Throat-clearing: "Great question!", "Here's the thing," "I wanted to reach out to touch base."
 - Bullets where prose would do. Numbered steps and lists of parallel items are fine.
@@ -139,7 +145,9 @@ are direct: "See if you can use this to bootstrap." Still brief, and never add f
 1. Check the mode fits the audience.
 2. Cut it down again, as much as you can without cutting anything of substance.
 3. Scan for anything in "What I never do."
-4. Read it as me and ask: "Would I have written this?" If not, change it until I would have.
+4. Scan for the same word repeated close together, e.g. "this time" in back-to-back sentences.
+   Cut or restructure, do not swap in a synonym.
+5. Read it as me and ask: "Would I have written this?" If not, change it until I would have.
 
 ## Keeping this skill up to date
 
